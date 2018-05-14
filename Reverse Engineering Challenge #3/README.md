@@ -1,5 +1,17 @@
-It seems to return the position of the most signficant bit set to 1.
-1->31
-2->30
-22->27
- don't know how?
+https://challenges.re/3/  
+
+int v[64]=
+	{ -1,31, 8,30, -1, 7,-1,-1, 29,-1,26, 6, -1,-1, 2,-1,
+	  -1,28,-1,-1, -1,19,25,-1, 5,-1,17,-1, 23,14, 1,-1,
+	   9,-1,-1,-1, 27,-1, 3,-1, -1,-1,20,-1, 18,24,15,10,
+	  -1,-1, 4,-1, 21,-1,16,11, -1,22,-1,12, 13,-1, 0,-1 };  
+   
+It seems to return the position of the most signficant bit set to 1.  
+
+1->31  
+
+2->30  
+
+22->27  
+
+don't know how?
